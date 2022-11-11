@@ -1,4 +1,6 @@
-# my-app
+# vue-admin
+
+##找的b站up(Allen的前端分享)的vue通用后台管理，放在这是为了方便
 
 ## Project setup
 ```
